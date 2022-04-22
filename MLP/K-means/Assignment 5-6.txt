@@ -1,0 +1,4 @@
+Assignment 5: Linear Regression: https://www.kaggle.com/datasets/syedmuhammadammar/employee-dataset-for-clustering
+
+
+Assignment 6: Clustering of students (Engineering dataset)

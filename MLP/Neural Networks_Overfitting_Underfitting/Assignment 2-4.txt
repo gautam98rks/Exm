@@ -1,0 +1,10 @@
+German Credit Dataset (Kaggle Link: https://www.kaggle.com/kabure/german-credit-data-with-risk)
+
+
+Income Classification (Kaggle Link: https://www.kaggle.com/lodetomasi1995/income-classification)
+
+
+
+
+Fake News or not (Kaggle Link: https://www.kaggle.com/nikhilghase/real-and-fake-news)
+
